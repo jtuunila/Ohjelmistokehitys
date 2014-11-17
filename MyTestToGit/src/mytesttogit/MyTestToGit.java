@@ -16,7 +16,7 @@ public class MyTestToGit {
      */
     public static void main(String[] args)
     {
-        System.err.println("Tere GitHub too");
+        
         // TODO code application logic here
     }
     
